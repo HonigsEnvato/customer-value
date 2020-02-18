@@ -1,0 +1,30 @@
+# General
+*~
+*#*
+*.DS_Store
+*.Rhistory
+*.log
+*.pdf
+*.html
+*.png
+*.jpeg
+
+# Data files and db
+*.pkl
+*.jsonl
+*.csv
+*.pyc
+*.db
+*.feather
+*.rds
+checkpoints/
+*cache/
+*files/
+*.RData
+
+# Virtualenv folder
+venv/
+
+# Python
+*.ipynb*
+.Rproj.user
